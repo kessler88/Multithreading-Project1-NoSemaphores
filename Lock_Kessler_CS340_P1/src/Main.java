@@ -2,9 +2,6 @@ import java.util.concurrent.atomic.AtomicBoolean;
 
 public class Main {
 
-    /**
-     * SUBMISSION ID: b0d7708a-fa0f-4002-9d43-34235f2f278e
-     */
     private static final int num_voters = 20;
     private static final  int num_ID_checkers = 3;
     private static final int num_k = 3; //3 kiosk
